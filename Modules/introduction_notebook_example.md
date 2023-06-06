@@ -12,13 +12,13 @@ Há uma aba para "Github"; selecione essa aba e cole
 ```
 https://github.com/WCSCourses/SARS-COV-2_B4B
 ```
-na barra de pesquisa em "Enter a GitHub URL or search by organization or user".
+Na barra de pesquisa em "Enter a GitHub URL or search by organization or user".
 
 Após uma breve pesquisa, você verá
 ```
 Modules/Introday_Notebook_SARSCOV2B4B.ipynb
 ```
-abaixo de "Path". Clique em "Introday_Notebook_SARSCOV2B4B.ipynb".
+Abaixo de "Path". Clique em "Introday_Notebook_SARSCOV2B4B.ipynb".
 
 Você verá o bloco de anotações modelo sendo aberto.
 
