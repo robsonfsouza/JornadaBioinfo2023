@@ -1,46 +1,45 @@
 # SARS-COV-2_B4B
-This is a repository for the SARS-CoV-2 Bioinformatics for Beginners Course
+Este é um repositório do Curso de Bioinformática para Iniciantes do SARS-CoV-2.
 
-*May 2023 update note - Access to file download links may change in the first two weeks of May 2023 which would impact the input data for example commands. Please expect errors over this time period. *
+A identificação das linhagens variantes do SARS-CoV-2 é fundamental para o rastreamento da pandemia e para possibilitar a resposta de saúde pública. Este curso é uma introdução à bioinformática aplicando habilidades usadas na análise genômica do SARS-CoV-2. Este será um curso distribuído em estilo de sala de aula, realizado na África, América Latina e Caribe, e Ásia. Este modelo foi desenvolvido pela [H3AbioNet] (https://www.h3abionet.org), consulte esta publicação para mais informações: (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008640).
 
-SARS-CoV-2 variant lineage identification is key to pandemic tracking and enabling public health response. This course is an introduction to bioinformatics by applying skills used in SARS-CoV-2 genomic data analysis. This will be a distributed classrooms style course run across Africa; Latin America and the Caribbean; and Asia. This model was developed by [H3ABioNet](https://www.h3abionet.org), see this [publication](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008640) for more info. 
-
-SARS-CoV-2 variant lineage identification is key to pandemic tracking and enabling public health response. This course is an introduction to bioinformatics by applying skills used in SARS-CoV-2 genomic data analysis. Bioinformatics skills are fundamental in management and assessment of viral sequences. This course will introduce you to processing data programmatically, the data formats used in viral sequencing, how to determine the variant lineage (Delta, Omicron etc.), and how to share data so that others around the world can benefit. These skills are the building blocks for scaling up analysis to pandemic response levels. 
+As habilidades em bioinformática são fundamentais na gestão e avaliação de sequências virais. Este curso irá introduzi-lo ao processamento de dados utilizando programação, aos formatos de dados utilizados no sequenciamento viral, como determinar a linhagem variante (Delta, Ômicron, etc.) e como compartilhar dados para que outros ao redor do mundo possam se beneficiar. Essas habilidades são os fundamentos para expandir a análise para níveis de resposta pandêmica.
 
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/sars-cov-2-bioinformatics-for-beginners-20221031/)                  
 [Glossary](Glossary.md)
 
-## Course structure 
-This course is making use of Google Colab - https://colab.research.google.com/, a free to use service.
+## Estrutura do curso 
+Este curso está utilizando o Google Colab - https://colab.research.google.com/, um serviço gratuito.
 
-Access to Colab is via a [Google Account](https://www.google.com/account/about/), which can be made for free.
+O acesso ao Colab é feito por meio de uma Conta do Google, que pode ser criada gratuitamente.
 
-## Time commitment
-Contact sessions will run twice a week,  lasting for 4 hours per session. It will run between the 31st of October – 2nd of December 2022. There will be sessions in two time zones. Note, each session for Oceania and Asia; and Latin America and Africa; will run in the same block of time, but with regional time differences. 
+## Compromisso de tempo
+As sessões de contato ocorrerão duas vezes por semana, com duração de 4 horas por sessão. Elas acontecerão entre os dias 31 de outubro e 2 de dezembro de 2022. Haverá sessões em dois fusos horários. Observe que cada sessão para Oceania e Ásia, assim como para América Latina e África, ocorrerá no mesmo intervalo de tempo, porém com diferenças regionais de horário.
 
-## Target audience
-The course is aimed at postgraduate scientists, postdoctoral scientists,  junior faculty members or clinicians/healthcare professionals based in the regions across Africa, Asia, and Latin America & the Caribbean. It does not require bioinformatics skills as a prerequisite.
+## Público-Alvo
+O curso é voltado para cientistas pós-graduados, cientistas pós-doutorados, membros juniores do corpo docente ou profissionais clínicos/saúde com base nas regiões da África, Ásia e América Latina e Caribe. Não é necessário ter habilidades em bioinformática como pré-requisito.
 
-## Programme
-The programme will cover the following core topics:
+## Conteúdos
 
-- Intro to Python Notebooks
-- Intro to Unix/Linux & running commands
-- Introduction to NGS Technologies employed in SARS-CoV-2 sequencing
-- Data quality control
-- Workflows for sequencing analysis
-- Pangolin for lineage identification
-- Exploring genomics data in a global context
+ O programa abordará os seguintes tópicos principais:
+ 
+- Introdução aos Notebooks Python
+- Introdução ao Unix/Linux e execução de comandos
+- Introdução às tecnologias de sequenciamento NGS empregadas no contexto do SARS-CoV-2
+- Controle de qualidade dos dados
+- Fluxos de trabalho para análise de sequenciamento
+- Pangolin para identificação de linhagens
+- Exploração de dados genômicos em um contexto global
 
-## Learning Outcomes
+## Objetivos de aprendizado
+- Aplicar ferramentas de linha de comando para controle de qualidade de dados de sequência
+- Listar os formatos de arquivo comumente usados no sequenciamento do SARS-CoV-2
+- Usar o Pangolin para criar linhagens virais a partir de conjuntos de dados existentes
+- Listar os metadados-chave que devem ser incluídos ao enviar sequências para repositórios online
+- Descrever princípios gerais na tradução de resultados de análise para resposta a surtos/epidemias/pandemias.
 
-- Apply command line tools for sequence data quality control
-- List file formats commonly used in SARS-CoV-2 sequencing
-- Use Pangolin to create viral lineages from sets of existing data
-- List key metadata that must be included when uploading sequences to online repositories
-- Describe broad principles in translation of analysis outputs to outbreak/epi/pandemic response
 
-## Instructor Team
+## Colaboradores do curso
 <!-- example - [Carolina Torres](https://www.researchgate.net/profile/Carolina-Torres-7), Universidad de Buenos Aires - CONICET, Buenos Aires, Argentina   -->
 - [Ariel Amadio](https://www.unraf.edu.ar/), Universidad Nacional de Rafaela, IDICAL, [INTA-CONICET](https://idical.conicet.gov.ar/), Argentina
 - [Blanca Taboada](https://www.ibt.unam.mx/),[CoViGen-Mex](http://132.248.32.96:8080/COVID-TRACKER/), Instituto de Biotecnología, Universidad Nacional Autónoma de México (UNAM); Consorcio Mexicano de Vigilancia Genómica (CoViGen-Mex)
@@ -63,69 +62,48 @@ The programme will cover the following core topics:
 
 <!--- [Classroom List and Numbers](Classroom_List_SARSCOV2B4B.pdf)  --->   
 
-## Course manual
+## Módulos
 
-**Introduction Week**         
-<!--- [Introduction Day 1 Dayplan](dayplans/Introduction_Week_Day_Plan_Day1.pdf) --->     
-
-[Introduction Notebook - Begin here](Modules/introduction_notebook_example.md)      
+**Introdução ao Curso**              
+[Começe Aqui a Primeira Notebook](Modules/introduction_notebook_example.md)      
       
-[Video Playlist - Introduction Week](https://www.youtube.com/playlist?list=PLfovZnX0TvKucooABBhYGqhS3tMSNdG5T)    
-                   
-[Introduction Day 2 Dayplan](dayplans/Introduction_Week_DayPlan_Day2.pdf)       
-
+[Playlist de Introdução ao Curso](https://www.youtube.com/playlist?list=PLfovZnX0TvKucooABBhYGqhS3tMSNdG5T)    
+                         
                   
 <!-- [Learn how to use moodle and make a classroom bio](link)      -->
 
-**Module 1: Introduction to Notebooks & Unix command line**      
-[Module 1 Video Playlist (Parts 1 and 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtHq6Q4L5KdW332NCD4GbtU)         
+**Módulo 1: Introdução aos Notebooks e Linhas de Comando Unix**
 
-[Module 1 Part 1 Day Plan](dayplans/Day_Plan_Module_1_Day_1_SARS-CoV-2_B4B_2022.pdf)
+[Playlist Módulo 1](https://www.youtube.com/playlist?list=PLfovZnX0TvKtHq6Q4L5KdW332NCD4GbtU)         
 
-[Module 1 Part 2 Day Plan](dayplans/Day_Plan_Module_1_Day_2_SARS-CoV-2_B4B_2022.pdf)
+[Instruções para o Notebook do Módulo 1](Modules/Module_1_readme.md)
 
-[Module 1 Part 1 and Part 2 Notebook Instructions](Modules/Module_1_readme.md)
-
-[Bonus Videos for NGS technologies](https://wcscourses.github.io/ViralBioinfAsia2022/Modules/Introduction_to_NGS.html)
+[Vídeo Bônus: Tecnologia NGS](https://wcscourses.github.io/ViralBioinfAsia2022/Modules/Introduction_to_NGS.html)
 
 
-**Module 2: Data QC and Consensus sequences**    
+**Módulo 2: Controle de Qualidade dos Dados e Sequências Consenso**
 
-[Module 2 Video Playlist (Parts 1 and 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtfX79k16fFMkMwDFtrAcNp)         
+[Playlist Módulo 2](https://www.youtube.com/playlist?list=PLfovZnX0TvKtfX79k16fFMkMwDFtrAcNp)         
 
+[Instruções para o Notebook de Controle de Qualidade dos Dados e Sequências Consenso do Módulo 2, Partes 1, 2, 3](Modules/Module_2_readme.md)       
 
-[Module 2 Part 1 Day Plan](dayplans/DayPlan_Module_2_Day_1_SARS-CoV-2B4B2022.pdf)               
+**Módulo 3: Identificação da Linhagem de Variantes** 
 
-[Module 2 Part 2 Day Plan](dayplans/DayPlan_Module_2_Day_2_SARS-CoV-2B4B2022.pdf)               
+[Vídeo do Módulo 3- Identificação da Linhagem de Variantes](https://www.youtube.com/watch?v=9Hwx_TLQyOw)        
 
-[Module 2 Data QC and Consensus Notebook Instructions Parts 1,2,3 ](Modules/Module_2_readme.md)       
-
-**Module 3: Variant Lineage Identification**       
-[Module 3 Video - Variant Lineage Identification](https://www.youtube.com/watch?v=9Hwx_TLQyOw)        
-
-[Module 3 Part 1 Day Plan](dayplans/DayPlan_Module_3-Day_1_SARS-CoV-2_B4B_2022.pdf)               
-
-[Module 3 Variant Lineage Identification Notebook Instructions](Modules/Module_3_readme.md)           
-
-[Module 3 Part 2 Day Plan - Exercise](dayplans/DayPlan_Module_3_Day_2_SARS-CoV-2_B4B_2022.pdf)
+[Instruções para o Notebook de Identificação de Linhagem de Variantes do Módulo 3](Modules/Module_3_readme.md)           
 
 <!-- [Variant Lineage Identification Part 2](Modules/Module_3_readme.md)   -->    
 
-**Module 4: Data sharing and interpretation**    
+**Módulo 4: Compartilhamento e Interpretação de Dados**    
 <br>
-[Module 4 Video Playlist](https://www.youtube.com/playlist?list=PLfovZnX0TvKu_wFgoZSN0DuKQ-sarlmg3)
-(Please watch Sections 1-2 for **Day 1**, and Sections 3-7 for **Day 2**)
+[Playlist Módulo 4](https://www.youtube.com/playlist?list=PLfovZnX0TvKu_wFgoZSN0DuKQ-sarlmg3)
 
-[Module 4 Part 1 Day Plan](dayplans/Module_4_Day_1_SARS-CoV-2_B4B_2022.pdf)   
+[Instruções para o Notebook de Compartilhamento e Interpretação de Dados do Módulo 4](Modules/Module_4_readme.md)  
 
-[Module 4 Data Sharing and Interpretation Notebook Instructions](Modules/Module_4_readme.md)  
+[Slide das Aulas Módulo 4](Modules/Module_4-Phylogenetics-interpretation-data-sharing_slide.pptx.pdf)
 
-[Module 4 Part 2 Day Plan](dayplans/Module_4_Day_2_SARS-CoV-2_B4B_2022.pdf) 
-(Exercises for Day 2 are in the videos for Sections 5-7)
-
-[Module 4 Slide deck pdf](Modules/Module_4-Phylogenetics-interpretation-data-sharing_slide.pptx.pdf)
-
-## Additional information
+## Informações adicionais
 
 [WCS LMS](https://lms.wellcomeconnectingscience.org/)       
 [COG-Train Online courses](https://www.futurelearn.com/partners/wellcome-genome-campus)         
