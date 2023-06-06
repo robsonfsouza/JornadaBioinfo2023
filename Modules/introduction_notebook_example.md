@@ -6,19 +6,19 @@ Para começar, acesse https://colab.research.google.com/.
 
 O uso do Colab é gratuito. Observe que existem limitações na versão gratuita, mas não alcançaremos essas limitações para nossos propósitos.
 
-Na página inicial de exemplos do Colab, selecione "File" e depois "Open Notebook".
+Na página inicial de exemplos do Colab, selecione "Arquivo" e depois "Abrir Notebook".
 
 Há uma aba para "Github"; selecione essa aba e cole
 ```
 https://github.com/WCSCourses/SARS-COV-2_B4B
 ```
-Na barra de pesquisa em "Enter a GitHub URL or search by organization or user".
+na barra de pesquisa em "Insira um URL do GitHub ou pesquise por organização ou usuário".
 
 Após uma breve pesquisa, você verá
 ```
 Modules/Introday_Notebook_SARSCOV2B4B.ipynb
 ```
-Abaixo de "Path". Clique em "Introday_Notebook_SARSCOV2B4B.ipynb".
+Clique em "Introday_Notebook_SARSCOV2B4B.ipynb".
 
 Você verá o bloco de anotações modelo sendo aberto.
 
