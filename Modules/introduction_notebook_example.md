@@ -1,32 +1,31 @@
-## Introduction Notebook:
+## Introdução: Primeira Notebook
 
-## How to begin: 
+## Como começar:
 
-To begin, go to [https://colab.research.google.com/](https://colab.research.google.com/ )
+Para começar, acesse https://colab.research.google.com/.
 
-Use of Colab is free. Note - There are limitations on the free version, but we will not reach these for our purposes. 
+O uso do Colab é gratuito. Observe que existem limitações na versão gratuita, mas não alcançaremos essas limitações para nossos propósitos.
 
-On the Colab example home page, select "File", then "Open Notebook"
+Na página inicial de exemplos do Colab, selecione "File" e depois "Open Notebook".
 
-There is a Tab for "Github"; select that tab and paste 
+Há uma aba para "Github"; selecione essa aba e cole
 ```
 https://github.com/WCSCourses/SARS-COV-2_B4B
 ```
-into the search bar under "Enter a GitHub URL or search by organization or user" 
+na barra de pesquisa em "Enter a GitHub URL or search by organization or user".
 
-After a brief search, you will see
+Após uma breve pesquisa, você verá
 ```
 Modules/Introday_Notebook_SARSCOV2B4B.ipynb
 ```
-below "Path". Click on "Introday_Notebook_SARSCOV2B4B.ipynb"
+abaixo de "Path". Clique em "Introday_Notebook_SARSCOV2B4B.ipynb".
 
-You will see the template notebook open.
+Você verá o bloco de anotações modelo sendo aberto.
 
-In order to run the cells, you will need to login with your Google account (it is free to make an account).
+Para executar as células, você precisará fazer login com sua conta do Google (é gratuito criar uma conta).
 
-**NB - The one opened directly from git will not save unless the first notebook steps are followed!**
+**NB - O arquivo aberto diretamente do GitHub não será salvo, a menos que você siga as primeiras etapas do bloco de anotações!**
 
-The instructions that are in the template must be followed. 
+As instruções que estão no bloco de anotações modelo devem ser seguidas.
 
-This is to ensure you keep a copy of your own notebook, named with your own name so it can be submitted. 
-
+Isso é para garantir que você mantenha uma cópia do seu próprio bloco de anotações, nomeado com seu próprio nome, para que possa ser enviado.
