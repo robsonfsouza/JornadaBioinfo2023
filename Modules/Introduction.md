@@ -1,4 +1,4 @@
-## Fabricação de módulos para SARS-CoV-2 B4B
+## Módulos para SARS-CoV-2 B4B
 
 A base para o conteúdo prático deste curso será em notebooks Python (.ipynb)
 
