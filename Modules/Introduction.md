@@ -6,12 +6,6 @@ Estes devem ser viáveis ​​na plataforma Google Colab - https://colab.resear
 
 Criamos um notebook de exemplo -
 
-## Vídeos de palestras para assistir:
-
-[Vídeo1](link para o vídeoaqui)
-
-Por favor, use isso como uma base inicial para o seu módulo.
-
 ## Como começar:
 
 Para começar, acesse https://colab.research.google.com/
