@@ -1,8 +1,8 @@
-## Módulo 2 DataQC e sequência de consenso para SARS-CoV-2
+## Módulo 2 -Controle de qualidade dos dados e sequência consenso para SARS-CoV-2
 
 A base para o conteúdo prático deste curso será em notebooks Python (.ipynb)
 
-Estes devem ser viáveis ​​na plataforma Google Colab - [https://colab.research.google.com/](https://colab.research.google.com/)
+Estes devem ser viáveis na plataforma Google Colab - [https://colab.research.google.com/](https://colab.research.google.com/)
 
 
 ## Vídeos de palestras para assistir:
