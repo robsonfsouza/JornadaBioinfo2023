@@ -1,58 +1,57 @@
-## Module 2 DataQC and Consensus Sequence for SARS-CoV-2 
+## Módulo 2 DataQC e sequência de consenso para SARS-CoV-2
 
-The base for practical content for this course will be in Python notebooks (.ipynb)
+A base para o conteúdo prático deste curso será em notebooks Python (.ipynb)
 
-These must be workable in the Google Colab platform - [https://colab.research.google.com/](https://colab.research.google.com/)
+Estes devem ser viáveis ​​na plataforma Google Colab - [https://colab.research.google.com/](https://colab.research.google.com/)
 
 
-## Lecture Videos to watch:
+## Vídeos de palestras para assistir:
 
-[Module 2 Video Playlist (Parts 1 and 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtfX79k16fFMkMwDFtrAcNp)         
+[Lista de reprodução de vídeo do módulo 2 (partes 1 e 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtfX79k16fFMkMwDFtrAcNp)
 
-Please use this as a start base for your module. 
+Por favor, use isso como uma base inicial para o seu módulo.
 
-## How to begin: 
+## Como começar:
 
-To begin, go to [https://colab.research.google.com/](https://colab.research.google.com/)
+Para começar, acesse [https://colab.research.google.com/](https://colab.research.google.com/)
 
-Use of Colab is free. Note - There are limitations on the free version, but we will not reach these for our conversion purposes. 
+O uso do Colab é gratuito. Nota - Existem limitações na versão gratuita, mas não as alcançaremos para nossos propósitos de conversão.
 
-On the Colab example home page, select "File", then "Open Notebook"
+Na página inicial do exemplo do Colab, selecione "Arquivo" e "Abrir notebook"
 
-## There are three Notebooks for Module 2
-You will need to repeat the import and save + rename for all three notebooks as you will be required to submit all 3!
+## Existem três Cadernos para o Módulo 2
+Você precisará repetir a importação e salvar + renomear todos os três blocos de anotações, pois será necessário enviar todos os três!
 
-There is a Tab for "Github"; select that tab and paste 
+Existe uma guia para "Github"; selecione essa guia e cole
 ```
 https://github.com/WCSCourses/SARS-COV-2_B4B
 ```
-into the search bar under "Enter a GitHub URL or search by organization or user" 
+na barra de pesquisa em "Insira um URL do GitHub ou pesquise por organização ou usuário"
 
-After a brief search, you will see (**for each notebook part**)
+Após uma breve pesquisa, você verá (**para cada parte do notebook**)
 
-Part 1:
+Parte 1:
 ```
 Modules/Module_2_Part1_Sequencing_Run_QC_(Nanopore_and_Illumina).ipynb
 ```
 
-Part 2:
+Parte 2:
 ```
-Modules/Module_2_Part2_Nanopore_SARS_CoV_2_genome_reconstruction.ipynb
+Modules/Module_2_Part2_Nanopore_SARS_CoV_2_genoma_reconstruction.ipynb
 ```
 
-Part 3:
+Parte 3:
 ```
 Modules/Module_2_Part3_Illumina_SARS_CoV_2_genome_reconstruction.ipynb
 ```
 
 
-below "Path". Click on the respect notebook to begin that part. 
+abaixo de "Caminho". Clique no caderno de respeito para começar essa parte.
 
 
-You will see the  notebook open.
+Você verá o notebook aberto.
 
-In order to run the cells, you will need to login with your Google account (it is free to make an account).
+Para executar as células, você precisará fazer o login com sua conta do Google (é grátis fazer uma conta).
 
-**NB - The one opened directly from git will not save unless the first notebook steps are followed!**
-
+**NB - Aquele aberto diretamente do git não será salvo a menos que as primeiras etapas do notebook sejam seguidas!**
 
