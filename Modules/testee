@@ -1,1 +1,109 @@
-
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "JyG45Qk3qQLS"
+      },
+      "source": [
+        "# Análise Nanopore do SARS-CoV-2\n",
+        "Nesse notebook processaremos os resultados da execução do Nanopore analisados anteriormente. Neste caso, os resultados do **\"[Midnight Protocol](https://labs.epi2me.io/sarscov2-midnight-analysis/) \"** será processado com um pipeline chamado epi2me-lab/wf-artic que fará as leituras e executará as seguintes etapas:\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "* Instalar software e preparar ambiente\n",
+        "* Execute um pipeline de geração de consenso do genoma\n",
+        "* Analisar os resultados"
+      ],
+      "metadata": {
+        "id": "2vctxx9r7P6L"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Instale o condacolab"
+      ],
+      "metadata": {
+        "id": "33ZISlFh92bZ"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!pip install -q condacolab\n",
+        "import condacolab\n",
+        "condacolab.install()"
+      ],
+      "metadata": {
+        "id": "jymSg1rN92Ak"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Verifique conda usando o próximo comando. Se nenhum erro aparecer, você está pronto para ir."
+      ],
+      "metadata": {
+        "id": "3usuHtV9CXQg"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!conda -h"
+      ],
+      "metadata": {
+        "id": "Y6YoksIiBxcA"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Instale um R compatível com a versão python"
+      ],
+      "metadata": {
+        "id": "3t7eoRe1au7j"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Instale um python para R compatível com colab\n",
+        "!pip install rpy2==3.5.1"
+      ],
+      "metadata": {
+        "id": "jUgqwG1QfB45"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Baixando os dados"
+      ],
+      "metadata": {
+        "id": "_N1pZKN460A1"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Baixe as leituras em um arquivo zip e descompacte\n",
+        "#As leituras irão para a pasta nanopore_fastq\n",
+        "!gdown 1rRhK7H7R9aiPooqtKtT8kugnLNsqmkkR ; unzip Nanopore_READS.zip"
+      ],
+      "metadata": {
+        "id": "9TifWlgm64i2"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
