@@ -1,44 +1,43 @@
-## Module 3 for SARS-CoV-2 B4B
+## Módulo 3 para SARS-CoV-2 B4B
 
-The base for practical content for this course will be in Python notebooks (.ipynb)
+A base para o conteúdo prático deste curso será em notebooks Python (.ipynb)
 
-These must be workable in the Google Colab platform - https://colab.research.google.com 
+Estes devem ser viáveis ​​na plataforma Google Colab - https://colab.research.google.com
 
-## Lecture Videos to watch:
+## Vídeos de palestras para assistir:
 
-[Variant Lineage Identification](https://youtu.be/9Hwx_TLQyOw)
+[Identificação de linhagem variante](https://youtu.be/9Hwx_TLQyOw)
 
-Please use this as a start base for your module. 
+Por favor, use isso como uma base inicial para o seu módulo.
 
-## How to begin: 
+## Como começar:
 
-To begin, go to https://colab.research.google.com/ 
+Para começar, acesse https://colab.research.google.com/
 
-Use of Colab is free. Note - There are limitations on the free version, but we will not reach these for our conversion purposes. 
+O uso do Colab é gratuito. Nota - Existem limitações na versão gratuita, mas não as alcançaremos para nossos propósitos de conversão.
 
-On the Colab example home page, select "File", then "Open Notebook"
+Na página inicial do exemplo do Colab, selecione "Arquivo" e "Abrir notebook"
 
-There is a Tab for "Github"; select that tab and paste 
+Existe uma guia para "Github"; selecione essa guia e cole
 ```
 https://github.com/WCSCourses/SARS-COV-2_B4B
 ```
-into the search bar under "Enter a GitHub URL or search by organization or user" 
+na barra de pesquisa em "Insira um URL do GitHub ou pesquise por organização ou usuário"
 
-After a brief search, you will see:
+Após uma breve pesquisa, você verá:
 
-Part 1:
+Parte 1:
 ```
 Module_3 SARS_CoV_2 _Part1.ipynb
 ```
 
-Part 2:
+Parte 2:
 ```
 Module_3 SARS_CoV_2 _Part2.ipynb
 ```
 
-below "Path". Click on the respective notebook filename to open it.
+abaixo de "Caminho". Clique no respectivo nome de arquivo do notebook para abri-lo.
 
-In order to run the cells, you will need to login with your Google account (it is free to make an account).
+Para executar as células, você precisará fazer o login com sua conta do Google (é grátis fazer uma conta).
 
-**NB - The one opened directly from git will not save unless the first notebook steps are followed!** 
-
+**NB - Aquele aberto diretamente do git não será salvo a menos que as primeiras etapas do notebook sejam seguidas!**
