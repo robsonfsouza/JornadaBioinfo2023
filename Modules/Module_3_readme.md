@@ -4,7 +4,7 @@ A base para o conteúdo prático deste curso será em notebooks Python (.ipynb)
 
 Estes devem ser viáveis ​​na plataforma Google Colab - https://colab.research.google.com
 
-## Vídeos de palestras para assistir:
+## Vídeos do módulo 3:
 
 [Identificação de linhagem variante](https://youtu.be/9Hwx_TLQyOw)
 
