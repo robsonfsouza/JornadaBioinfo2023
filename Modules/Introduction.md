@@ -2,9 +2,12 @@
 
 A base para o conteúdo prático deste curso será em notebooks Python (.ipynb)
 
-Estes devem ser viáveis ​​na plataforma Google Colab - https://colab.research.google.com
+Estes devem ser viáveis na plataforma Google Colab - https://colab.research.google.com
 
 Criamos um notebook de exemplo -
+
+## Playlist de introdução ao curso
+https://www.youtube.com/playlist?list=PLfovZnX0TvKucooABBhYGqhS3tMSNdG5T
 
 ## Como começar:
 
