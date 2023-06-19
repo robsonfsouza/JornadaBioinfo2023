@@ -5,7 +5,7 @@ A base para o conteúdo prático deste curso será em notebooks Python (.ipynb)
 Estes devem ser viáveis na plataforma Google Colab - [https://colab.research.google.com/](https://colab.research.google.com/)
 
 
-## Vídeos de palestras para assistir:
+## Vídeos para assistir:
 
 [Lista de reprodução dos vídeos do módulo 2 (partes 1 e 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtfX79k16fFMkMwDFtrAcNp)
 
