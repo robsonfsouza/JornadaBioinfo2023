@@ -6,7 +6,7 @@ Estes devem ser viáveis na plataforma Google Colab - https://colab.research.goo
 
 Criamos um notebook de exemplo -
 
-## Vídeos de palestras para assistir:
+## Vídeos para assistir:
 
 [Módulo 4: Playlist](https://www.youtube.com/playlist?list=PLfovZnX0TvKu_wFgoZSN0DuKQ-sarlmg3)
 
