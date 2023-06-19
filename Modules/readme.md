@@ -1,44 +1,44 @@
-## Module making for SARS-CoV-2 B4B
+## Fabricação de módulos para SARS-CoV-2 B4B
 
-The base for practical content for this course will be in Python notebooks (.ipynb)
+A base para o conteúdo prático deste curso será em notebooks Python (.ipynb)
 
-These must be workable in the Google Colab platform - https://colab.research.google.com 
+Estes devem ser viáveis na plataforma Google Colab - https://colab.research.google.com
 
-We have created an example notebook - 
+Criamos um notebook de exemplo -
 
-## Lecture Videos to watch:
+## Vídeos de palestras para assistir:
 
-[Video1](linktovideohere)
+[Vídeo1](link para o vídeoaqui)
 
-Please use this as a start base for your module. 
+Por favor, use isso como uma base inicial para o seu módulo.
 
-## How to begin: 
+## Como começar:
 
-To begin, go to https://colab.research.google.com/ 
+Para começar, acesse https://colab.research.google.com/
 
-Use of Colab is free. Note - There are limitations on the free version, but we will not reach these for our conversion purposes. 
+O uso do Colab é gratuito. Nota - Existem limitações na versão gratuita, mas não as alcançaremos para nossos propósitos de conversão.
 
-On the Colab example home page, select "File", then "Open Notebook"
+Na página inicial do exemplo do Colab, selecione "Arquivo" e "Abrir notebook"
 
-There is a Tab for "Github"; select that tab and paste 
+Existe uma guia para "Github"; selecione essa guia e cole
 ```
 https://github.com/WCSCourses/SARS-COV-2_B4B
 ```
-into the search bar under "Enter a GitHub URL or search by organization or user" 
+na barra de pesquisa em "Insira um URL do GitHub ou pesquise por organização ou usuário"
 
-After a brief search, you will see
+Após uma breve pesquisa, você verá
 ```
 Modules/Module_Template_SARSCOVB4B.ipynb
 ```
-below "Path". Click on "Convert_to_md-2.ipynb"
+abaixo de "Caminho". Clique em "Convert_to_md-2.ipynb"
 
-You will see the template notebook open.
+Você verá o bloco de anotações modelo aberto.
 
-In order to run the cells, you will need to login with your Google account (it is free to make an account).
+Para executar as células, você precisará fazer o login com sua conta do Google (é grátis fazer uma conta).
 
-**NB - The one opened directly from git will not save unless the first notebook steps are followed!**
+**NB - Aquele aberto diretamente do git não será salvo a menos que as primeiras etapas do notebook sejam seguidas!**
 
-The instructions that are in the template must be followed by you, and then also leave these there as the participants will need to do the same for completing your module notebooks. 
+As instruções que estão no modelo devem ser seguidas por você, e depois deixe-as também, pois os participantes precisarão fazer o mesmo para preencher os cadernos do módulo.
 
-This is to ensure they keep a copy of their notebooks, and have a copy they can download and submit as part of the course. 
+Isso é para garantir que eles mantenham uma cópia de seus blocos de anotações e tenham uma cópia que possam baixar e enviar como parte do curso.
 
