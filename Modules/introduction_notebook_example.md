@@ -10,7 +10,7 @@ Na página inicial de exemplos do Colab, selecione "Arquivo" e depois "Abrir Not
 
 Há uma aba para "Github"; selecione essa aba e cole
 ```
-https://github.com/WCSCourses/SARS-COV-2_B4B
+https://github.com/khourious/SARS-COV-2_B4B
 ```
 na barra de pesquisa em "Insira um URL do GitHub ou pesquise por organização ou usuário".
 
